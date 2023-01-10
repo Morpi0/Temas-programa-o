@@ -1,0 +1,101 @@
+site de ver jogos em promoção{
+
+ ( Gamers-promo )
+
+}
+
+site de musica {
+
+}
+
+site de ler manga {
+
+	( mangasfire )
+
+}
+
+mymeme list {
+
+(myanime list versão memes)
+
+}
+
+senha {
+
+	(site com sistema de senha e email)
+	(banco de dados)
+
+}
+
+alice no pais das maravilhas {
+
+	(fazer um site que fica mais e mais esquisito a medida em que voce entra)
+
+}
+
+Site de um livro {
+
+	(o site vai amostrar um livro e suas paginas, e ele pode lido ali mesmo)
+
+}
+
+Site cofiguravel {
+
+	(o site é configurado em uma pagina separada)
+
+
+}
+
+
+Tabela de funcionarios {
+
+(Conter informaçoes como nome, idade, cargo, salario etc.)
+}
+
+*(fazer um site montado com seu proprio layout) {
+
+ #Usar paint ou algum programa assim
+(eviar ao maximo copiar imagens de um lugar para o site);
+
+}
+
+*DeepWeb{
+
+
+
+
+
+
+ (loja de scam);
+
+}
+
+
+*site de um hotel com quartos disponiveis para alugar {
+
+ (tem que ter uma apresentação do hotel e dos preços para alugar);
+ 
+
+
+}
+
+*starbucks {
+
+
+}
+
+*macdonnalds{
+
+
+}
+
+*site em forma de enigma {
+
+ (Tem que ter mais de uma pagina);
+ (o jogador tem que fazer certas tarefas para passar de fase);
+
+
+}
+
+
+

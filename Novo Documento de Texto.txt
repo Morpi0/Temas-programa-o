@@ -1,0 +1,210 @@
+  <!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <link rel="stylesheet" href="./Style.css">
+    
+    <title> Tabela de funcionarios</title>
+
+    
+
+</head>
+
+<body>
+
+<!--
+    <tr>
+        <td> - </td>
+        <td> - </td>
+        <td> -(a) </td>
+        <td>R$ - </td>
+        <td> - </td>
+    </tr>
+-->
+<div>
+    <table style="width: 100%;">
+        <h4>Tabela geral de funcionarios</h4>
+        <tr>
+            <th>Nome</th>
+            <th>Idade</th>
+            <th>Cargo</th>
+            <th>Salario</th>
+            <th>horario</th>
+        </tr>
+        <tr>
+            <td>Sheila</td>
+            <td>24</td>
+            <td>funcionario(a)</td>
+            <td>R$370</td>
+            <td>11:00h - 17:00h</td>
+        </tr>
+        <tr>
+            <td>Carlos</td>
+            <td>34</td>
+            <td>Supervisor(a)</td>
+            <td>R$1.340,00</td>
+            <td>11:20 - 20:00</td>
+        </tr>
+        <tr>
+            <td>Joseph Joestar</td>
+            <td>67</td>
+            <td>Diretor(a)</td>
+            <td>R$23.450,00</td>
+            <td>11:10 - 22:00</td>
+        </tr>
+        <tr>
+            <td>Maria</td>
+            <td>25</td>
+            <td>Diretor(a)</td>
+            <td>R$23.340,00</td>
+            <td>11:20 - 19:00</td>
+        </tr>
+        <tr>
+            <td>João</td>
+            <td>33</td>
+            <td>funcionario(a)</td>
+            <td>R$290</td>
+            <td>11:00 - 16:00</td>
+        </tr>
+        <tr>
+            <td>Gustavo</td>
+            <td>19</td>
+            <td>funcionario(a)</td>
+            <td>R$250</td>
+            <td>11:00 - 16:00</td>
+        </tr>
+        <tr>
+            <td>Vitor</td>
+            <td>20</td>
+            <td>funcionario(a)</td>
+            <td>R$340</td>
+            <td>11:00 - 17:00</td>
+        </tr>
+        <tr>
+            <td>Cesar</td>
+            <td>28</td>
+            <td>funcionario(a)</td>
+            <td>R$370</td>
+            <td>11:00h - 17:00h</td>
+        </tr>
+    </table>
+</div>
+
+<h2> funcionarios: </h2>
+
+
+<div>
+    <table class="Tabela_01">
+        <tr>
+            <th>Nome</th>
+            <th>Idade</th>
+            <th>Cargo</th>
+            <th>Salario</th>
+            <th>horario</th>
+        </tr>
+        <tr>
+            <td>Vitor</td>
+            <td>20</td>
+            <td>funcionario(a)</td>
+            <td>R$340</td>
+            <td>11:00 - 17:00</td>
+        </tr>
+        <tr>
+            <td>Gustavo</td>
+            <td>19</td>
+            <td>funcionario(a)</td>
+            <td>R$250</td>
+            <td>11:00 - 16:00</td>
+        </tr>
+        <tr>
+            <td>João</td>
+            <td>33</td>
+            <td>funcionario(a)</td>
+            <td>R$290</td>
+            <td>11:00 - 16:00</td>
+        </tr>
+        <tr>
+            <td>Cesar</td>
+            <td>28</td>
+            <td>funcionario(a)</td>
+            <td>R$370</td>
+            <td>11:00h - 17:00h</td>
+        </tr>
+        <tr>
+            <td>Sheila</td>
+            <td>24</td>
+            <td>funcionario(a)</td>
+            <td>R$370</td>
+            <td>11:00h - 17:00h</td>
+        </tr>
+    </table>
+</div>
+
+<br>
+<div>
+<h2>Supervisores:</h2>
+
+<Table style="width: 80%;">
+    <tr>
+        <th>Nome</th>
+        <th>Idade</th>
+        <th>Cargo</th>
+        <th>Salario</th>
+        <th>horario</th>
+    </tr>
+
+    <td> Carlos</td>
+    <td>34</td>
+    <td>Supervisor(a)</td>
+    <td>R$1.340,00</td>
+    <td>11:20 - 20:00</td>
+
+</Table>
+<br>
+
+<h2>Diretores:</h2>
+
+<Table style="width: 80%;">
+    <td>Joseph Joestar</td>
+    <td>67</td>
+    <td>Diretor(a)</td>
+    <td>R$23.450,00</td>
+    <td>11:10 - 22:00</td>
+</tr>
+<tr>
+    <td>Maria</td>
+    <td>25</td>
+    <td>Diretor(a)</td>
+    <td>R$23.340,00</td>
+    <td>11:20 - 19:00</td>
+</tr>
+</Table>
+</div>
+</body>
+
+</html>
+
+
+
+
+
+CSS:
+
+
+
+Table, th, td {
+    border: 2px solid black;
+    text-align: center;
+}
+
+.Tabela_01{
+    border: 1px solid black;
+    text-align: center;
+    width: 80%;
+}
+
+body{
+    background-color: rgb(218, 200, 200);
+}

@@ -1,0 +1,20 @@
+* {
+    margin: 0px;
+    padding: 0px;
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+    background-color: snow;
+}
+
+input {
+    height: 40px;
+    width: 40%;
+
+    margin: 20px;
+
+    background-color: rgb(151, 151, 170);
+    display: grid;
+}

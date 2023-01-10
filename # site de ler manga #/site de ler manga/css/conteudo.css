@@ -1,0 +1,46 @@
+
+ul, li {
+    list-style: none;
+}
+
+
+/* slide de quadrinhos em alta */
+
+#slide {
+    width: 100%px;
+    height: 500px;
+    background-color: aqua;
+}
+
+/* conteudo do index.html */
+
+#paginas {
+    padding-top: 50px;
+    display: flex;
+}
+
+.imagem01 {
+    width: 250px;
+    height: 500px;
+}
+
+.imagem02{
+    width: 260px;
+    height: 500px;
+}
+
+.titulo_quadrinho{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    width: 250px;
+    height: 30px;
+    background-color: rgb(199, 230, 230);
+}
+
+.titulo_quadrinho0 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    width: 250px;
+    height: 50px;
+    background-color: rgb(88, 29, 1);
+}

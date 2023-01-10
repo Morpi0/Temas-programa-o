@@ -1,0 +1,31 @@
+#conteudo {
+    margin: 30px;
+    width: 96%;
+    height: 900px;
+    /*background-color: blueviolet; */
+}
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.texto {
+    text-align: center;
+}
+
+.imagem {
+    border: 2px solid black;
+    width: 300px;
+    height: 350px;
+}
+
+.info {
+    border-radius: 4px;
+    width: 300px;
+    height: 40px;
+    background-color: rgb(95, 91, 91);
+}

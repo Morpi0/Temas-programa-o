@@ -1,0 +1,61 @@
+body {
+    overflow: hidden;
+   margin-top: 0px;
+   margin-left: 3px;
+   margin-right: 3px;
+}
+
+#principal {
+    
+    width: 1359px;
+    height: 400px;
+    background-color: rgb(14, 13, 13);
+}
+ /* direitos autorais */
+#direitos {
+    position: relative;
+    top: -30px;
+    width: 1359px;
+    height: 40px;
+    background-color: rgb(71, 70, 70);
+    border: 2px solid #000;
+}
+ /* direitos autorais texto ©*/
+#direitos02 {
+    text-align: center;
+    position: relative;
+    top: -10px;
+}
+ /*fotografando*/
+.log0{
+    color: white;
+    font-size:large;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    top: -63px;
+    left: 130px;
+
+}
+ /* iniciar, sobre e nossos trabalhos */
+.site {
+    text-align: center;
+    position: relative;
+    top: -359px;
+    left: -180px;
+}
+
+a {
+    font-size: 35px;
+    text-decoration: none;
+    color: white;
+}
+
+p {
+    color: aquamarine;
+    font-size: 20px;
+}
+
+a:hover {
+    color: rgb(111, 47, 184);
+    font-size: 45px;
+}
